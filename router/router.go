@@ -1,7 +1,7 @@
 package router
 
 import (
-	"fish/hall/controllers"
+	"github.com/ruandao/dwg255-fish-hall/controllers"
 	"net/http"
 )
 

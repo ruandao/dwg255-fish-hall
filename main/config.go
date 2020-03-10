@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fish/hall/common"
+	"github.com/ruandao/dwg255-fish-hall/common"
 	"fmt"
 	"github.com/astaxie/beego/config"
 )

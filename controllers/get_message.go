@@ -3,8 +3,8 @@ package controllers
 import (
 	"context"
 	"encoding/json"
-	"fish/common/tools"
-	"fish/hall/common"
+	"github.com/ruandao/dwg255-fish-common/tools"
+	"github.com/ruandao/dwg255-fish-hall/common"
 	"github.com/astaxie/beego/logs"
 	"net/http"
 	"strconv"

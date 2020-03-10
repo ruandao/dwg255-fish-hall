@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fish/hall/common"
-	_ "fish/hall/router"
+	"github.com/ruandao/dwg255-fish-hall/common"
+	_ "github.com/ruandao/dwg255-fish-hall/router"
 	"flag"
 	"fmt"
 	"github.com/astaxie/beego/logs"

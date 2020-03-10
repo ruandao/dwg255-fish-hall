@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"fish/hall/common"
+	"github.com/ruandao/dwg255-fish-hall/common"
 	"github.com/astaxie/beego/logs"
 )
 

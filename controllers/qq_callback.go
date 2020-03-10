@@ -3,9 +3,9 @@ package controllers
 import (
 	"context"
 	"encoding/json"
-	"fish/common/api/thrift/gen-go/rpc"
-	"fish/common/tools"
-	"fish/hall/common"
+	"github.com/ruandao/dwg255-fish-common/api/thrift/gen-go/rpc"
+	"github.com/ruandao/dwg255-fish-common/tools"
+	"github.com/ruandao/dwg255-fish-hall/common"
 	"fmt"
 	"github.com/astaxie/beego/logs"
 	"io/ioutil"

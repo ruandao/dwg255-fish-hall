@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"crypto/md5"
-	"fish/hall/common"
+	"github.com/ruandao/dwg255-fish-hall/common"
 	"fmt"
 	"github.com/astaxie/beego/logs"
 	"net/http"
