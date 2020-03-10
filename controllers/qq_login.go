@@ -8,7 +8,7 @@ import (
 var (
 	appId = 101673379
 	AppKey = "c18b1b56f2f88ef423bfeadbad9a816c"
-	redirectUri = "http://fish.blzz.shop/qq/message"
+	redirectUri = "http://192.168.1.231:8988/qq/message"
 )
 func QQLogin(w http.ResponseWriter, r *http.Request) {
 	defer func() {
